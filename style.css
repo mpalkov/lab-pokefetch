@@ -35,6 +35,8 @@ nav {
     flex-wrap: wrap;
     justify-content: center;
     flex-direction: row;
+    margin-bottom: 55px;
+;
 }
 
 li {
